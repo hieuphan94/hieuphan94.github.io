@@ -3,12 +3,29 @@
     <title>Hi Flutter</title>
     <link href="https://hiflutter.com/feed.xml" rel="self" />
     <link href="https://hiflutter.com" />
-    <updated>2021-07-23T19:31:09+07:00</updated>
+    <updated>2021-07-23T22:55:50+07:00</updated>
     <author>
         <name>hieuphan</name>
     </author>
     <id>https://hiflutter.com</id>
 
+    <entry>
+        <title>About Me</title>
+        <author>
+            <name>hieuphan</name>
+        </author>
+        <link href="https://hiflutter.com/about-me/"/>
+        <id>https://hiflutter.com/about-me/</id>
+            <category term="hieuphan"/>
+
+        <updated>2021-07-23T22:55:50+07:00</updated>
+            <summary>
+                <![CDATA[
+                    I'm a full-stack software engineer specializing in JavaScript, Ruby, SQL, and Linux. I'm also proficient with a variety of other languages, tools, and frameworks, including Node.js, Rails, WebSockets, Docker, React, Bash, and DevOps.
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Layouts</title>
         <author>
