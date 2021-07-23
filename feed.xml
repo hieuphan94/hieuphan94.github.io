@@ -3,12 +3,87 @@
     <title>Hi Flutter</title>
     <link href="https://hiflutter.com/feed.xml" rel="self" />
     <link href="https://hiflutter.com" />
-    <updated>2021-07-23T17:34:18+07:00</updated>
+    <updated>2021-07-23T18:29:59+07:00</updated>
     <author>
         <name>hieuphan</name>
     </author>
     <id>https://hiflutter.com</id>
 
+    <entry>
+        <title>Flutter Projects</title>
+        <author>
+            <name>hieuphan</name>
+        </author>
+        <link href="https://hiflutter.com/flutter-projects/"/>
+        <id>https://hiflutter.com/flutter-projects/</id>
+            <category term="flutter_category_projects"/>
+            <category term="flutter"/>
+
+        <updated>2021-07-23T18:29:59+07:00</updated>
+            <summary>
+                <![CDATA[
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Flutter Architects</title>
+        <author>
+            <name>hieuphan</name>
+        </author>
+        <link href="https://hiflutter.com/flutter-architects/"/>
+        <id>https://hiflutter.com/flutter-architects/</id>
+            <category term="flutter_category_architects"/>
+            <category term="flutter"/>
+
+        <updated>2021-07-23T18:29:26+07:00</updated>
+            <summary>
+                <![CDATA[
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Flutter SetUps</title>
+        <author>
+            <name>hieuphan</name>
+        </author>
+        <link href="https://hiflutter.com/flutter-set-up/"/>
+        <id>https://hiflutter.com/flutter-set-up/</id>
+            <category term="flutter_category_setups"/>
+            <category term="flutter"/>
+
+        <updated>2021-07-23T18:28:52+07:00</updated>
+            <summary>
+                <![CDATA[
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Flutter Layouts</title>
         <author>
