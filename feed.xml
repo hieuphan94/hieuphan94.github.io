@@ -25,14 +25,7 @@
                      
                 ]]>
             </summary>
-        <content type="html">
-            <![CDATA[
-                
-  <p>
-    
-  </p>
-            ]]>
-        </content>
+        <content></content>
     </entry>
     <entry>
         <title>Architects</title>
@@ -50,14 +43,7 @@
                      
                 ]]>
             </summary>
-        <content type="html">
-            <![CDATA[
-                
-  <p>
-    
-  </p>
-            ]]>
-        </content>
+        <content></content>
     </entry>
     <entry>
         <title>SetUps</title>
@@ -75,14 +61,7 @@
                      
                 ]]>
             </summary>
-        <content type="html">
-            <![CDATA[
-                
-  <p>
-    
-  </p>
-            ]]>
-        </content>
+        <content></content>
     </entry>
     <entry>
         <title>Layouts</title>
@@ -100,17 +79,7 @@
                     Layout 01: Tiktok Link-source: https://github.com/hieuphan94/flutter-layouts/tree/master/layout_01_tiktok Layout 02: Login Link-source: https://github.com/hieuphan94/flutter-layouts/tree/master/layout_02_login
                 ]]>
             </summary>
-        <content type="html">
-            <![CDATA[
-                <pre class="line-numbers  language-html"><code>Layout 01: Tiktok
-
-Link-source: https://github.com/hieuphan94/flutter-layouts/tree/master/layout_01_tiktok
-</code></pre>
-<pre class="line-numbers  language-html"><code>Layout 02: Login
-
-Link-source: https://github.com/hieuphan94/flutter-layouts/tree/master/layout_02_login</code></pre>
-            ]]>
-        </content>
+        <content></content>
     </entry>
     <entry>
         <title>Layout 01 - Tik tok</title>
@@ -127,10 +96,6 @@ Link-source: https://github.com/hieuphan94/flutter-layouts/tree/master/layout_02
                     Github Source
                 ]]>
             </summary>
-        <content type="html">
-            <![CDATA[
-                <p><a href="https://github.com/hieuphan94/flutter-layouts/tree/master/layout_01_tiktok" target="_blank" rel="noopener noreferrer">Github Source</a></p>
-            ]]>
-        </content>
+        <content></content>
     </entry>
 </feed>

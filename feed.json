@@ -5,6 +5,7 @@
     "home_page_url": "https://hiflutter.com",
     "feed_url": "https://hiflutter.com/feed.json",
     "user_comment": "",
+    "icon": "https://hiflutter.com/media/website/logo.png",
     "author": {
         "name": "hieuphan"
     },
@@ -14,7 +15,6 @@
             "url": "https://hiflutter.com/projects/",
             "title": "Projects",
             "summary": " ",
-            "content_html": "\n  <p>\n    \n  </p>",
             "author": {
                 "name": "hieuphan"
             },
@@ -30,7 +30,6 @@
             "url": "https://hiflutter.com/architects/",
             "title": "Architects",
             "summary": " ",
-            "content_html": "\n  <p>\n    \n  </p>",
             "author": {
                 "name": "hieuphan"
             },
@@ -46,7 +45,6 @@
             "url": "https://hiflutter.com/set-ups/",
             "title": "SetUps",
             "summary": " ",
-            "content_html": "\n  <p>\n    \n  </p>",
             "author": {
                 "name": "hieuphan"
             },
@@ -62,7 +60,6 @@
             "url": "https://hiflutter.com/layouts/",
             "title": "Layouts",
             "summary": "Layout 01: Tiktok Link-source: https://github.com/hieuphan94/flutter-layouts/tree/master/layout_01_tiktok Layout 02: Login Link-source: https://github.com/hieuphan94/flutter-layouts/tree/master/layout_02_login",
-            "content_html": "<pre class=\"line-numbers  language-html\"><code>Layout 01: Tiktok\n\nLink-source: https://github.com/hieuphan94/flutter-layouts/tree/master/layout_01_tiktok\n</code></pre>\n<pre class=\"line-numbers  language-html\"><code>Layout 02: Login\n\nLink-source: https://github.com/hieuphan94/flutter-layouts/tree/master/layout_02_login</code></pre>",
             "author": {
                 "name": "hieuphan"
             },
@@ -78,7 +75,6 @@
             "url": "https://hiflutter.com/layout-01-tik-tok/",
             "title": "Layout 01 - Tik tok",
             "summary": "Github Source",
-            "content_html": "<p><a href=\"https://github.com/hieuphan94/flutter-layouts/tree/master/layout_01_tiktok\" target=\"_blank\" rel=\"noopener noreferrer\">Github Source</a></p>",
             "author": {
                 "name": "hieuphan"
             },
