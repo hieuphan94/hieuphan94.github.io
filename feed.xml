@@ -3,12 +3,40 @@
     <title>Hi Flutter</title>
     <link href="https://hiflutter.com/feed.xml" rel="self" />
     <link href="https://hiflutter.com" />
-    <updated>2021-07-23T16:47:39+07:00</updated>
+    <updated>2021-07-23T17:16:07+07:00</updated>
     <author>
         <name>hieuphan</name>
     </author>
     <id>https://hiflutter.com</id>
 
+    <entry>
+        <title>Flutter Layouts</title>
+        <author>
+            <name>hieuphan</name>
+        </author>
+        <link href="https://hiflutter.com/flutter-layouts/index.html"/>
+        <id>https://hiflutter.com/flutter-layouts/index.html</id>
+            <category term="flutter_category_layouts"/>
+            <category term="flutter"/>
+
+        <updated>2021-07-23T17:16:07+07:00</updated>
+            <summary>
+                <![CDATA[
+                    Layout 01: Tiktok Link-source: https://github.com/hieuphan94/flutter-layouts/tree/master/layout_01_tiktok Layout 02: Login Link-source: https://github.com/hieuphan94/flutter-layouts/tree/master/layout_02_login
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <pre class="line-numbers  language-html"><code>Layout 01: Tiktok
+
+Link-source: https://github.com/hieuphan94/flutter-layouts/tree/master/layout_01_tiktok
+</code></pre>
+<pre class="line-numbers  language-html"><code>Layout 02: Login
+
+Link-source: https://github.com/hieuphan94/flutter-layouts/tree/master/layout_02_login</code></pre>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Layout 01 - Tik tok</title>
         <author>
@@ -16,7 +44,7 @@
         </author>
         <link href="https://hiflutter.com/layout-01-tik-tok/index.html"/>
         <id>https://hiflutter.com/layout-01-tik-tok/index.html</id>
-            <category term="flutter_layouts"/>
+            <category term="flutter_post_layouts"/>
 
         <updated>2021-07-23T16:47:39+07:00</updated>
             <summary>
