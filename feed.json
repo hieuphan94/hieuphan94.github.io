@@ -9,19 +9,5 @@
         "name": "hieuphan"
     },
     "items": [
-        {
-            "id": "https://hiflutter.com/my-first-post/index.html",
-            "url": "https://hiflutter.com/my-first-post/index.html",
-            "title": "My First Post",
-            "summary": "Hello, this is my first Post",
-            "content_html": "<p>Hello, this is my first Post</p>",
-            "author": {
-                "name": "hieuphan"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-07-23T14:28:13+07:00",
-            "date_modified": "2021-07-23T14:28:13+07:00"
-        }
     ]
 }

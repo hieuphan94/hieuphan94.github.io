@@ -3,30 +3,10 @@
     <title>Hi Flutter</title>
     <link href="https://hiflutter.com/feed.xml" rel="self" />
     <link href="https://hiflutter.com" />
-    <updated>2021-07-23T14:28:13+07:00</updated>
+    <updated>1970-01-01T08:00:00+08:00</updated>
     <author>
         <name>hieuphan</name>
     </author>
     <id>https://hiflutter.com</id>
 
-    <entry>
-        <title>My First Post</title>
-        <author>
-            <name>hieuphan</name>
-        </author>
-        <link href="https://hiflutter.com/my-first-post/index.html"/>
-        <id>https://hiflutter.com/my-first-post/index.html</id>
-
-        <updated>2021-07-23T14:28:13+07:00</updated>
-            <summary>
-                <![CDATA[
-                    Hello, this is my first Post
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Hello, this is my first Post</p>
-            ]]>
-        </content>
-    </entry>
 </feed>
