@@ -3,7 +3,7 @@
     <title>Hi Flutter</title>
     <link href="https://hiflutter.com/feed.xml" rel="self" />
     <link href="https://hiflutter.com" />
-    <updated>2021-07-23T23:08:23+07:00</updated>
+    <updated>2021-07-23T23:19:39+07:00</updated>
     <author>
         <name>hieuphan</name>
     </author>
@@ -18,10 +18,10 @@
         <id>https://hiflutter.com/about-me/</id>
             <category term="hieuphan"/>
 
-        <updated>2021-07-23T23:08:23+07:00</updated>
+        <updated>2021-07-23T23:19:39+07:00</updated>
             <summary>
                 <![CDATA[
-                    I'm a full-stack software engineer specializing in JavaScript, Ruby, Dart, Java, SQL, and Linux. I'm also proficient with a variety of other languages, tools, and frameworks, including Node.js, Flutter, Docker and React. Resume 
+                    Hi, I'm Nick I'm a full-stack software engineer specializing in JavaScript, Ruby, Dart, Java, SQL, and Linux. I'm also proficient with a variety of other languages, tools, and frameworks, including Node.js, Flutter, Docker and React. Resume 
                 ]]>
             </summary>
         <content></content>
