@@ -11,19 +11,19 @@
     },
     "items": [
         {
-            "id": "https://hiflutter.com/projects/",
-            "url": "https://hiflutter.com/projects/",
-            "title": "Projects",
-            "summary": " ",
+            "id": "https://hiflutter.com/layouts/",
+            "url": "https://hiflutter.com/layouts/",
+            "title": "Layouts",
+            "summary": " Layout 02 - Login Layout 01 - Tik Tok ",
             "author": {
                 "name": "hieuphan"
             },
             "tags": [
-                   "flutter_category_projects",
+                   "flutter_category_layouts",
                    "flutter"
             ],
             "date_published": "2021-07-23T18:29:59+07:00",
-            "date_modified": "2021-07-23T18:37:26+07:00"
+            "date_modified": "2021-07-23T19:15:46+07:00"
         },
         {
             "id": "https://hiflutter.com/architects/",
@@ -56,19 +56,19 @@
             "date_modified": "2021-07-23T18:37:47+07:00"
         },
         {
-            "id": "https://hiflutter.com/layouts/",
-            "url": "https://hiflutter.com/layouts/",
-            "title": "Layouts",
-            "summary": "Layout 01: Tiktok Link-source: https://github.com/hieuphan94/flutter-layouts/tree/master/layout_01_tiktok Layout 02: Login Link-source: https://github.com/hieuphan94/flutter-layouts/tree/master/layout_02_login",
+            "id": "https://hiflutter.com/projects/",
+            "url": "https://hiflutter.com/projects/",
+            "title": "Projects",
+            "summary": " ",
             "author": {
                 "name": "hieuphan"
             },
             "tags": [
-                   "flutter_category_layouts",
+                   "flutter_category_projects",
                    "flutter"
             ],
             "date_published": "2021-07-23T17:15:29+07:00",
-            "date_modified": "2021-07-23T18:37:55+07:00"
+            "date_modified": "2021-07-23T19:15:31+07:00"
         },
         {
             "id": "https://hiflutter.com/layout-01-tik-tok/",

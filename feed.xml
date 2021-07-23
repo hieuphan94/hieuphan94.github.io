@@ -3,26 +3,26 @@
     <title>Hi Flutter</title>
     <link href="https://hiflutter.com/feed.xml" rel="self" />
     <link href="https://hiflutter.com" />
-    <updated>2021-07-23T18:37:55+07:00</updated>
+    <updated>2021-07-23T19:15:46+07:00</updated>
     <author>
         <name>hieuphan</name>
     </author>
     <id>https://hiflutter.com</id>
 
     <entry>
-        <title>Projects</title>
+        <title>Layouts</title>
         <author>
             <name>hieuphan</name>
         </author>
-        <link href="https://hiflutter.com/projects/"/>
-        <id>https://hiflutter.com/projects/</id>
-            <category term="flutter_category_projects"/>
+        <link href="https://hiflutter.com/layouts/"/>
+        <id>https://hiflutter.com/layouts/</id>
+            <category term="flutter_category_layouts"/>
             <category term="flutter"/>
 
-        <updated>2021-07-23T18:37:26+07:00</updated>
+        <updated>2021-07-23T19:15:46+07:00</updated>
             <summary>
                 <![CDATA[
-                     
+                     Layout 02 - Login Layout 01 - Tik Tok 
                 ]]>
             </summary>
         <content></content>
@@ -64,19 +64,19 @@
         <content></content>
     </entry>
     <entry>
-        <title>Layouts</title>
+        <title>Projects</title>
         <author>
             <name>hieuphan</name>
         </author>
-        <link href="https://hiflutter.com/layouts/"/>
-        <id>https://hiflutter.com/layouts/</id>
-            <category term="flutter_category_layouts"/>
+        <link href="https://hiflutter.com/projects/"/>
+        <id>https://hiflutter.com/projects/</id>
+            <category term="flutter_category_projects"/>
             <category term="flutter"/>
 
-        <updated>2021-07-23T18:37:55+07:00</updated>
+        <updated>2021-07-23T19:15:31+07:00</updated>
             <summary>
                 <![CDATA[
-                    Layout 01: Tiktok Link-source: https://github.com/hieuphan94/flutter-layouts/tree/master/layout_01_tiktok Layout 02: Login Link-source: https://github.com/hieuphan94/flutter-layouts/tree/master/layout_02_login
+                     
                 ]]>
             </summary>
         <content></content>
