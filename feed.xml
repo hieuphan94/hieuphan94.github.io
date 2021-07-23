@@ -3,7 +3,7 @@
     <title>Hi Flutter</title>
     <link href="https://hiflutter.com/feed.xml" rel="self" />
     <link href="https://hiflutter.com" />
-    <updated>2021-07-24T03:16:17+07:00</updated>
+    <updated>2021-07-24T03:48:27+07:00</updated>
     <author>
         <name>hieuphan</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://hiflutter.com/about-me/</id>
             <category term="hieuphan"/>
 
-        <updated>2021-07-24T03:16:17+07:00</updated>
+        <updated>2021-07-24T03:48:27+07:00</updated>
             <summary>
                 <![CDATA[
                      Hi, I'm Hieu I'm a software engineer located in Vietnam. I'm a co-creator of and software engineer at SpaceCraft — an open-source, in-browser REPL (Read-Evaluate-Print-Loop) where users can collaborate together in real time. SpaceCraft is an open-source, real-time, collaborative REPL (Read-Evaluate-Print-Loop) where users can&hellip;
