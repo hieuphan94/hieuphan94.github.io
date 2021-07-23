@@ -23,7 +23,7 @@
                    "flutter"
             ],
             "date_published": "2021-07-23T18:29:59+07:00",
-            "date_modified": "2021-07-23T19:15:46+07:00"
+            "date_modified": "2021-07-23T19:19:09+07:00"
         },
         {
             "id": "https://hiflutter.com/architects/",
@@ -74,7 +74,7 @@
             "id": "https://hiflutter.com/layout-01-tik-tok/",
             "url": "https://hiflutter.com/layout-01-tik-tok/",
             "title": "Layout 01 - Tik tok",
-            "summary": "Github Source",
+            "summary": "A layout clone Tik tok layout Github Source Tutorial: Set Up Code Code - Part 1 Code - Part 2 Code - Part 3 Fix Resources: Github: https://github.com/FilledStacks ",
             "author": {
                 "name": "hieuphan"
             },
@@ -82,7 +82,7 @@
                    "flutter_post_layouts"
             ],
             "date_published": "2021-07-23T16:28:25+07:00",
-            "date_modified": "2021-07-23T17:34:18+07:00"
+            "date_modified": "2021-07-23T19:31:09+07:00"
         }
     ]
 }

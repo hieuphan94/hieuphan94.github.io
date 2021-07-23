@@ -3,7 +3,7 @@
     <title>Hi Flutter</title>
     <link href="https://hiflutter.com/feed.xml" rel="self" />
     <link href="https://hiflutter.com" />
-    <updated>2021-07-23T19:15:46+07:00</updated>
+    <updated>2021-07-23T19:31:09+07:00</updated>
     <author>
         <name>hieuphan</name>
     </author>
@@ -19,7 +19,7 @@
             <category term="flutter_category_layouts"/>
             <category term="flutter"/>
 
-        <updated>2021-07-23T19:15:46+07:00</updated>
+        <updated>2021-07-23T19:19:09+07:00</updated>
             <summary>
                 <![CDATA[
                      Layout 02 - Login Layout 01 - Tik Tok 
@@ -90,10 +90,10 @@
         <id>https://hiflutter.com/layout-01-tik-tok/</id>
             <category term="flutter_post_layouts"/>
 
-        <updated>2021-07-23T17:34:18+07:00</updated>
+        <updated>2021-07-23T19:31:09+07:00</updated>
             <summary>
                 <![CDATA[
-                    Github Source
+                    A layout clone Tik tok layout Github Source Tutorial: Set Up Code Code - Part 1 Code - Part 2 Code - Part 3 Fix Resources: Github: https://github.com/FilledStacks 
                 ]]>
             </summary>
         <content></content>
