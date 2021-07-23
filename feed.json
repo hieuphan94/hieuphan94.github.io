@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://hiflutter.com/flutter-layouts/index.html",
-            "url": "https://hiflutter.com/flutter-layouts/index.html",
+            "id": "https://hiflutter.com/flutter-layouts/",
+            "url": "https://hiflutter.com/flutter-layouts/",
             "title": "Flutter Layouts",
             "summary": "Layout 01: Tiktok Link-source: https://github.com/hieuphan94/flutter-layouts/tree/master/layout_01_tiktok Layout 02: Login Link-source: https://github.com/hieuphan94/flutter-layouts/tree/master/layout_02_login",
             "content_html": "<pre class=\"line-numbers  language-html\"><code>Layout 01: Tiktok\n\nLink-source: https://github.com/hieuphan94/flutter-layouts/tree/master/layout_01_tiktok\n</code></pre>\n<pre class=\"line-numbers  language-html\"><code>Layout 02: Login\n\nLink-source: https://github.com/hieuphan94/flutter-layouts/tree/master/layout_02_login</code></pre>",
@@ -26,8 +26,8 @@
             "date_modified": "2021-07-23T17:16:07+07:00"
         },
         {
-            "id": "https://hiflutter.com/layout-01-tik-tok/index.html",
-            "url": "https://hiflutter.com/layout-01-tik-tok/index.html",
+            "id": "https://hiflutter.com/layout-01-tik-tok/",
+            "url": "https://hiflutter.com/layout-01-tik-tok/",
             "title": "Layout 01 - Tik tok",
             "summary": "Github Source",
             "content_html": "<p><a href=\"https://github.com/hieuphan94/flutter-layouts/tree/master/layout_01_tiktok\" target=\"_blank\" rel=\"noopener noreferrer\">Github Source</a></p>",

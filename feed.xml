@@ -14,8 +14,8 @@
         <author>
             <name>hieuphan</name>
         </author>
-        <link href="https://hiflutter.com/flutter-layouts/index.html"/>
-        <id>https://hiflutter.com/flutter-layouts/index.html</id>
+        <link href="https://hiflutter.com/flutter-layouts/"/>
+        <id>https://hiflutter.com/flutter-layouts/</id>
             <category term="flutter_category_layouts"/>
             <category term="flutter"/>
 
@@ -42,8 +42,8 @@ Link-source: https://github.com/hieuphan94/flutter-layouts/tree/master/layout_02
         <author>
             <name>hieuphan</name>
         </author>
-        <link href="https://hiflutter.com/layout-01-tik-tok/index.html"/>
-        <id>https://hiflutter.com/layout-01-tik-tok/index.html</id>
+        <link href="https://hiflutter.com/layout-01-tik-tok/"/>
+        <id>https://hiflutter.com/layout-01-tik-tok/</id>
             <category term="flutter_post_layouts"/>
 
         <updated>2021-07-23T16:47:39+07:00</updated>
