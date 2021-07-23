@@ -3,7 +3,7 @@
     <title>Hi Flutter</title>
     <link href="https://hiflutter.com/feed.xml" rel="self" />
     <link href="https://hiflutter.com" />
-    <updated>2021-07-23T17:16:07+07:00</updated>
+    <updated>2021-07-23T17:34:18+07:00</updated>
     <author>
         <name>hieuphan</name>
     </author>
@@ -46,16 +46,14 @@ Link-source: https://github.com/hieuphan94/flutter-layouts/tree/master/layout_02
         <id>https://hiflutter.com/layout-01-tik-tok/</id>
             <category term="flutter_post_layouts"/>
 
-        <updated>2021-07-23T16:47:39+07:00</updated>
+        <updated>2021-07-23T17:34:18+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://hiflutter.com/media/posts/2/post1-2.png" alt="Layout 01 - Tik tok" />
                     Github Source
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://hiflutter.com/media/posts/2/post1-2.png" alt="Layout 01 - Tik tok" />
                 <p><a href="https://github.com/hieuphan94/flutter-layouts/tree/master/layout_01_tiktok" target="_blank" rel="noopener noreferrer">Github Source</a></p>
             ]]>
         </content>

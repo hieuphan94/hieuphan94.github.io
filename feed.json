@@ -31,7 +31,6 @@
             "title": "Layout 01 - Tik tok",
             "summary": "Github Source",
             "content_html": "<p><a href=\"https://github.com/hieuphan94/flutter-layouts/tree/master/layout_01_tiktok\" target=\"_blank\" rel=\"noopener noreferrer\">Github Source</a></p>",
-            "image": "https://hiflutter.com/media/posts/2/post1-2.png",
             "author": {
                 "name": "hieuphan"
             },
@@ -39,7 +38,7 @@
                    "flutter_post_layouts"
             ],
             "date_published": "2021-07-23T16:28:25+07:00",
-            "date_modified": "2021-07-23T16:47:39+07:00"
+            "date_modified": "2021-07-23T17:34:18+07:00"
         }
     ]
 }
