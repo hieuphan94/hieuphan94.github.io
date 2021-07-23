@@ -12,7 +12,7 @@
         {
             "id": "https://hiflutter.com/flutter-projects/",
             "url": "https://hiflutter.com/flutter-projects/",
-            "title": "Flutter Projects",
+            "title": "Projects",
             "summary": " ",
             "content_html": "\n  <p>\n    \n  </p>",
             "author": {
@@ -23,12 +23,12 @@
                    "flutter"
             ],
             "date_published": "2021-07-23T18:29:59+07:00",
-            "date_modified": "2021-07-23T18:29:59+07:00"
+            "date_modified": "2021-07-23T18:35:43+07:00"
         },
         {
             "id": "https://hiflutter.com/flutter-architects/",
             "url": "https://hiflutter.com/flutter-architects/",
-            "title": "Flutter Architects",
+            "title": "Architects",
             "summary": " ",
             "content_html": "\n  <p>\n    \n  </p>",
             "author": {
@@ -39,12 +39,12 @@
                    "flutter"
             ],
             "date_published": "2021-07-23T18:29:26+07:00",
-            "date_modified": "2021-07-23T18:29:26+07:00"
+            "date_modified": "2021-07-23T18:35:49+07:00"
         },
         {
             "id": "https://hiflutter.com/flutter-set-up/",
             "url": "https://hiflutter.com/flutter-set-up/",
-            "title": "Flutter SetUps",
+            "title": "SetUps",
             "summary": " ",
             "content_html": "\n  <p>\n    \n  </p>",
             "author": {
@@ -55,12 +55,12 @@
                    "flutter"
             ],
             "date_published": "2021-07-23T18:28:08+07:00",
-            "date_modified": "2021-07-23T18:28:52+07:00"
+            "date_modified": "2021-07-23T18:35:56+07:00"
         },
         {
             "id": "https://hiflutter.com/flutter-layouts/",
             "url": "https://hiflutter.com/flutter-layouts/",
-            "title": "Flutter Layouts",
+            "title": "Layouts",
             "summary": "Layout 01: Tiktok Link-source: https://github.com/hieuphan94/flutter-layouts/tree/master/layout_01_tiktok Layout 02: Login Link-source: https://github.com/hieuphan94/flutter-layouts/tree/master/layout_02_login",
             "content_html": "<pre class=\"line-numbers  language-html\"><code>Layout 01: Tiktok\n\nLink-source: https://github.com/hieuphan94/flutter-layouts/tree/master/layout_01_tiktok\n</code></pre>\n<pre class=\"line-numbers  language-html\"><code>Layout 02: Login\n\nLink-source: https://github.com/hieuphan94/flutter-layouts/tree/master/layout_02_login</code></pre>",
             "author": {
@@ -71,7 +71,7 @@
                    "flutter"
             ],
             "date_published": "2021-07-23T17:15:29+07:00",
-            "date_modified": "2021-07-23T17:16:07+07:00"
+            "date_modified": "2021-07-23T18:36:03+07:00"
         },
         {
             "id": "https://hiflutter.com/layout-01-tik-tok/",

@@ -3,14 +3,14 @@
     <title>Hi Flutter</title>
     <link href="https://hiflutter.com/feed.xml" rel="self" />
     <link href="https://hiflutter.com" />
-    <updated>2021-07-23T18:29:59+07:00</updated>
+    <updated>2021-07-23T18:36:03+07:00</updated>
     <author>
         <name>hieuphan</name>
     </author>
     <id>https://hiflutter.com</id>
 
     <entry>
-        <title>Flutter Projects</title>
+        <title>Projects</title>
         <author>
             <name>hieuphan</name>
         </author>
@@ -19,7 +19,7 @@
             <category term="flutter_category_projects"/>
             <category term="flutter"/>
 
-        <updated>2021-07-23T18:29:59+07:00</updated>
+        <updated>2021-07-23T18:35:43+07:00</updated>
             <summary>
                 <![CDATA[
                      
@@ -35,7 +35,7 @@
         </content>
     </entry>
     <entry>
-        <title>Flutter Architects</title>
+        <title>Architects</title>
         <author>
             <name>hieuphan</name>
         </author>
@@ -44,7 +44,7 @@
             <category term="flutter_category_architects"/>
             <category term="flutter"/>
 
-        <updated>2021-07-23T18:29:26+07:00</updated>
+        <updated>2021-07-23T18:35:49+07:00</updated>
             <summary>
                 <![CDATA[
                      
@@ -60,7 +60,7 @@
         </content>
     </entry>
     <entry>
-        <title>Flutter SetUps</title>
+        <title>SetUps</title>
         <author>
             <name>hieuphan</name>
         </author>
@@ -69,7 +69,7 @@
             <category term="flutter_category_setups"/>
             <category term="flutter"/>
 
-        <updated>2021-07-23T18:28:52+07:00</updated>
+        <updated>2021-07-23T18:35:56+07:00</updated>
             <summary>
                 <![CDATA[
                      
@@ -85,7 +85,7 @@
         </content>
     </entry>
     <entry>
-        <title>Flutter Layouts</title>
+        <title>Layouts</title>
         <author>
             <name>hieuphan</name>
         </author>
@@ -94,7 +94,7 @@
             <category term="flutter_category_layouts"/>
             <category term="flutter"/>
 
-        <updated>2021-07-23T17:16:07+07:00</updated>
+        <updated>2021-07-23T18:36:03+07:00</updated>
             <summary>
                 <![CDATA[
                     Layout 01: Tiktok Link-source: https://github.com/hieuphan94/flutter-layouts/tree/master/layout_01_tiktok Layout 02: Login Link-source: https://github.com/hieuphan94/flutter-layouts/tree/master/layout_02_login
