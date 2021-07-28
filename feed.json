@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://hiflutter.com/layout-02-login/",
+            "url": "https://hiflutter.com/layout-02-login/",
+            "title": "Layout 02 - Login",
+            "summary": "Series Login layouts Layout1 A few resources Layout2 A few resources Layout3 A few resources Github: https://github.com/afgprogrammer/Flutter-Login-Page-3 Youtube: https://www.youtube.com/watch?v=txvyAO894DY&amp;list=PLf-j0Hs0PF3sIyohisAfO-56N_WcTniNt&amp;index=1 ",
+            "author": {
+                "name": "hieuphan"
+            },
+            "tags": [
+                   "flutter_post_layouts"
+            ],
+            "date_published": "2021-07-28T16:14:54+07:00",
+            "date_modified": "2021-07-28T16:17:28+07:00"
+        },
+        {
             "id": "https://hiflutter.com/about-me/",
             "url": "https://hiflutter.com/about-me/",
             "title": "About Me",
@@ -37,7 +51,7 @@
                    "flutter"
             ],
             "date_published": "2021-07-23T18:29:59+07:00",
-            "date_modified": "2021-07-23T19:19:09+07:00"
+            "date_modified": "2021-07-28T16:19:11+07:00"
         },
         {
             "id": "https://hiflutter.com/architects/",
@@ -96,7 +110,7 @@
                    "flutter_post_layouts"
             ],
             "date_published": "2021-07-23T16:28:25+07:00",
-            "date_modified": "2021-07-24T01:53:25+07:00"
+            "date_modified": "2021-07-28T16:14:15+07:00"
         }
     ]
 }
