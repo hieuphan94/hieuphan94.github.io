@@ -3,7 +3,7 @@
     <title>Hi Flutter</title>
     <link href="https://hiflutter.com/feed.xml" rel="self" />
     <link href="https://hiflutter.com" />
-    <updated>2021-07-29T08:51:25+07:00</updated>
+    <updated>2021-07-30T10:05:17+07:00</updated>
     <author>
         <name>hieuphan</name>
     </author>
@@ -124,10 +124,10 @@
         <id>https://hiflutter.com/layout-01-tik-tok/</id>
             <category term="flutter_post_layouts"/>
 
-        <updated>2021-07-28T16:28:38+07:00</updated>
+        <updated>2021-07-30T10:05:17+07:00</updated>
             <summary>
                 <![CDATA[
-                    A layout clone Tik tok layout Github Source Resources: Github: https://github.com/FilledStacks 
+                    A Home Screen Tik tok Github Source Resources: Github: https://github.com/FilledStacks 
                 ]]>
             </summary>
         <content></content>
