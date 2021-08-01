@@ -3,7 +3,7 @@
     <title>Hi Flutter</title>
     <link href="https://hiflutter.com/feed.xml" rel="self" />
     <link href="https://hiflutter.com" />
-    <updated>2021-08-01T08:02:59+07:00</updated>
+    <updated>2021-08-01T08:03:38+07:00</updated>
     <author>
         <name>hieuphan</name>
     </author>
@@ -107,10 +107,10 @@
             <category term="flutter_category_projects"/>
             <category term="flutter"/>
 
-        <updated>2021-07-23T19:15:31+07:00</updated>
+        <updated>2021-08-01T08:03:38+07:00</updated>
             <summary>
                 <![CDATA[
-                     
+                     Project 1 
                 ]]>
             </summary>
         <content></content>
