@@ -28,7 +28,7 @@
             "id": "https://hiflutter.com/about-me/",
             "url": "https://hiflutter.com/about-me/",
             "title": "About Me",
-            "summary": " Hi, I'm Hieu I'm a software engineer located in Vietnam. E-Commerce Shop is an open-source. E-Commerce Shop is built using a Node.js server and Mobile By Flutter. E-Commerce Shop is deployed with Docker and scaled to handle multiple user sessions using a reverse proxy&hellip;",
+            "summary": " Hi, I'm Hieu I'm a software engineer located in Vietnam. E-Commerce Shop is an open-source. E-Commerce Shop is built using a Node.js server and Mobile By Flutter. Tinder App is an open-source. \bTinder App is built using a Node.js server that manages REPL code&hellip;",
             "author": {
                 "name": "hieuphan"
             },
@@ -36,7 +36,7 @@
                    "hieuphan"
             ],
             "date_published": "2021-07-23T22:48:34+07:00",
-            "date_modified": "2021-08-02T22:26:08+07:00"
+            "date_modified": "2021-08-02T22:26:58+07:00"
         },
         {
             "id": "https://hiflutter.com/layouts/",
