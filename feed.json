@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://hiflutter.com/layout-03-netflix/",
+            "url": "https://hiflutter.com/layout-03-netflix/",
+            "title": "Layout 03 - Netflix",
+            "summary": " layout_03_netflix A Netflix UI Layout A few resources Github: https://github.com/MarcusNg/flutter_netflix_ui_redesign Youtube: https://www.youtube.com/watch?v=sgfMdhV4HQI ",
+            "author": {
+                "name": "hieuphan"
+            },
+            "tags": [
+                   "flutter_category_layouts"
+            ],
+            "date_published": "2021-08-06T12:39:42+07:00",
+            "date_modified": "2021-08-06T12:39:42+07:00"
+        },
+        {
             "id": "https://hiflutter.com/layout-02-login/",
             "url": "https://hiflutter.com/layout-02-login/",
             "title": "Layout 02 - Login",
