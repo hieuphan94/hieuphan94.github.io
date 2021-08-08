@@ -3,7 +3,7 @@
     <title>Hi Flutter</title>
     <link href="https://hiflutter.com/feed.xml" rel="self" />
     <link href="https://hiflutter.com" />
-    <updated>2021-08-06T12:49:49+07:00</updated>
+    <updated>2021-08-08T21:38:31+07:00</updated>
     <author>
         <name>hieuphan</name>
     </author>
@@ -18,10 +18,10 @@
         <id>https://hiflutter.com/layout-03-netflix/</id>
             <category term="flutter_post_layouts"/>
 
-        <updated>2021-08-06T12:46:35+07:00</updated>
+        <updated>2021-08-08T21:38:31+07:00</updated>
             <summary>
                 <![CDATA[
-                     layout_03_netflix A Netflix UI Layout A few resources Github: https://github.com/MarcusNg/flutter_netflix_ui_redesign Youtube: https://www.youtube.com/watch?v=sgfMdhV4HQI 
+                     A Netflix UI Redesign Layout A few resources Github: https://github.com/MarcusNg/flutter_netflix_ui_redesign Youtube: https://www.youtube.com/watch?v=sgfMdhV4HQI 
                 ]]>
             </summary>
         <content></content>
