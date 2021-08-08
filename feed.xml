@@ -3,14 +3,14 @@
     <title>Hi Flutter</title>
     <link href="https://hiflutter.com/feed.xml" rel="self" />
     <link href="https://hiflutter.com" />
-    <updated>2021-08-08T21:38:31+07:00</updated>
+    <updated>2021-08-08T21:39:28+07:00</updated>
     <author>
         <name>hieuphan</name>
     </author>
     <id>https://hiflutter.com</id>
 
     <entry>
-        <title>Layout 03 - Netflix</title>
+        <title>Layout 03 - Netflix Redesign</title>
         <author>
             <name>hieuphan</name>
         </author>
@@ -18,7 +18,7 @@
         <id>https://hiflutter.com/layout-03-netflix/</id>
             <category term="flutter_post_layouts"/>
 
-        <updated>2021-08-08T21:38:31+07:00</updated>
+        <updated>2021-08-08T21:39:28+07:00</updated>
             <summary>
                 <![CDATA[
                      A Netflix UI Redesign Layout A few resources Github: https://github.com/MarcusNg/flutter_netflix_ui_redesign Youtube: https://www.youtube.com/watch?v=sgfMdhV4HQI 
