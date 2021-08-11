@@ -3,7 +3,7 @@
     <title>Hi Flutter</title>
     <link href="https://hiflutter.com/feed.xml" rel="self" />
     <link href="https://hiflutter.com" />
-    <updated>2021-08-08T22:01:35+07:00</updated>
+    <updated>2021-08-11T20:47:05+07:00</updated>
     <author>
         <name>hieuphan</name>
     </author>
@@ -18,8 +18,12 @@
         <id>https://hiflutter.com/project-01-ecommerce/</id>
             <category term="flutter_post_projects"/>
 
-        <updated>2021-08-08T22:01:04+07:00</updated>
-            <summary></summary>
+        <updated>2021-08-11T20:47:05+07:00</updated>
+            <summary>
+                <![CDATA[
+                    Proj 01: Ecommerce A Ecommerce Flutter project. Screenshot SplashScreen A few resources Youtube: The Flutter Way Ecommerce-Playlist Github 
+                ]]>
+            </summary>
         <content></content>
     </entry>
     <entry>
